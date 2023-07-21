@@ -1,7 +1,23 @@
 # postgres---docker-
-
-
 First get the git clone from my repo
+
+ Run the the container in detach mode
+                 
+                 docker compose up -d
+
+to execute in intractive mode 
+
+                docker exec -it -u postgres <CONTAINER_NAME> psql
+                
+after this command you are under the psql you can check with this command 
+
+                \l
+
+for create database 
+                CREATE DATABASE <DB_NAME>;
+
+`````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
 
 this is the expliantion of the code 
 
