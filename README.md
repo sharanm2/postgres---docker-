@@ -1,5 +1,6 @@
 # postgres---docker-
 
+
 First get the git clone from my repo
 
 this is the expliantion of the code 
@@ -39,7 +40,6 @@ this is the expliantion of the code
 
 
             When you define a named volume in a Docker Compose file, like "mydata," you are creating a place to store data outside the container's life cycle. The data is managed by Docker, and it's like having a virtual hard drive accessible to the containers that use it.
-
-
-
         
+        for more info about what is volume and types of volume  :https://medium.com/techmormo/how-do-docker-volumes-enable-persistence-for-containers-docker-made-easy-4-2093a1783b87 
+
