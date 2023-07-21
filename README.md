@@ -14,6 +14,7 @@ after this command you are under the psql you can check with this command
                 \l
 
 for create database 
+
                 CREATE DATABASE <DB_NAME>;
 
 `````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
